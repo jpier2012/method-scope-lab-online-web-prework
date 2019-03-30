@@ -1,5 +1,5 @@
 def rescue_example
-  $stest_variable = "Test variable"
+  $test_variable = "Test variable"
   puts test_variable
 end
 
