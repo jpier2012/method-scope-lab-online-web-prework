@@ -1,6 +1,6 @@
 def rescue_example
-  variable = "Test variable"
+  test_variable = "Test variable"
 end
 
 rescue_example
-puts variable
+puts test_variable
