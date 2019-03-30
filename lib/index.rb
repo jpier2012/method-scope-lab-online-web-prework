@@ -3,5 +3,5 @@ def rescue_example
   puts test_variable
 end
 
-rescue_example
+puts rescue_example
 puts test_variable
